@@ -44,20 +44,6 @@ me.sayHi();
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2 align="center">📊 GitHub Vibes</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MathiRaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="MathiRaja's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=MathiRaja&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
