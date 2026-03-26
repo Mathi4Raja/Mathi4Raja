@@ -27,7 +27,6 @@ class MathiRaja {
         this.role = "Web Dev & Software Tester";
         this.education = "MCA Student";
         this.vibes = ["Innovation", "Adaptability", "Creativity"];
-        this.current_project = "Blood Donor Connect";
         this.skills = ["JavaScript", "React", "Testing", "Automation"];
     }
 
