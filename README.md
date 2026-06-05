@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&random=false&width=600&height=70&lines=Mathiraja+S;Full-Stack+Developer;Software+Tester;Building+things+that+hold+up." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&random=false&width=600&height=70&lines=Mathiraja+S;Full-Stack+Developer;Software+Tester;Building+things+that+hold+up" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -107,7 +107,6 @@ Role-based blood donor management system — Donor, Requester, and Moderator wor
 ## A Note
 
 > TANCET 2024 — Rank 133 · 97.72 percentile statewide (MCA entrance exam).
-> Not mentioned to brag. Mentioned because it reflects how I approach things I decide to take seriously.
 
 ---
 
