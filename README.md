@@ -93,28 +93,11 @@ Role-based blood donor management system — Donor, Requester, and Moderator wor
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MathiRaja/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mathi_raja_333)
-
-</div>
-
----
-
 ## A Note
 
 > TANCET 2024 — Rank 133 · 97.72 percentile statewide (MCA entrance exam).
 
 ---
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-</div>
 
 <div align="center">
   <sub>Open to remote roles in full-stack development, software testing, and AI-adjacent engineering.</sub><br><br>
