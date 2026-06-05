@@ -95,21 +95,9 @@ A role-based blood donor management system supporting Donor, Requester, and Mode
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![Mathiraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathi4Raja&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true)
-
-</div>
-
----
-
 ## A Note
 
 TANCET 2024 — Rank 133 · 97.72 percentile statewide (MCA entrance exam).
-
-Not mentioned to brag. Mentioned because it reflects how I approach things I decide to take seriously.
 
 ---
 
