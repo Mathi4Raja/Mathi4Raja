@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F,52B788&height=80&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%" />
 </div>
 
 <div align="center">
@@ -119,9 +119,9 @@ Role-based blood donor management system — Donor, Requester, and Moderator wor
 
 <div align="center">
   <sub>Open to remote roles in full-stack development, software testing, and AI-adjacent engineering.</sub><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Mathi4Raja&style=flat-square&color=2D6A4F" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mathi4Raja&style=flat-square&color=00B4D8" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D6A4F,52B788&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
