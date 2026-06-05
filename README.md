@@ -72,19 +72,19 @@ I care about building software that is thoughtful, tested, and genuinely useful.
 
 ## Projects
 
-### [AcadIntern](https://acadintern.mathi.live) &nbsp;·&nbsp; [GitHub](https://github.com/Mathi4Raja)
+### [AcadIntern](https://acadintern.mathi.live) &nbsp;
 
 An internship discovery platform built for students navigating a difficult and often opaque application process. Dual-interface: a Next.js web application and a native Flutter Android app with deep linking.
 
 Express.js API managing 12+ relational Mongoose schemas, handling 100+ concurrent connections at under 800ms response times. Real-time messaging via Socket.io, push notifications via Firebase, and file storage via Cloudflare R2.
 
-### [GASC Blood Donor Bridge](https://github.com/Mathi4Raja)
-
-A role-based blood donor management system supporting Donor, Requester, and Moderator workflows. Secure authentication, CRUD operations, and automated database backups via MySQLDump-PHP — reducing manual maintenance effort by ~80% and duplicate records by ~40%.
-
-### PeerChat
+### [PeerChat](https://peerchat.mathi.live)&nbsp;
 
 A peer-to-peer encrypted communication app built with Flutter and Dart. End-to-end encryption via libsodium (Ed25519/X25519), Bluetooth and Wi-Fi mesh routing through the Nearby Connections API, and offline map caching via OpenStreetMap. Designed to operate without internet infrastructure.
+
+### [GASC Blood Donor Bridge](https://bdb.free.nf)&nbsp;
+
+A role-based blood donor management system supporting Donor, Requester, and Moderator workflows. Secure authentication, CRUD operations, and automated database backups via MySQLDump-PHP — reducing manual maintenance effort by ~80% and duplicate records by ~40%.
 
 ---
 
@@ -108,8 +108,6 @@ A peer-to-peer encrypted communication app built with Flutter and Dart. End-to-e
 ## A Note
 
 TANCET 2024 — Rank 133 · 97.72 percentile statewide (MCA entrance exam).
-
-Not mentioned to brag. Mentioned because it reflects how I approach things I decide to take seriously.
 
 ---
 
