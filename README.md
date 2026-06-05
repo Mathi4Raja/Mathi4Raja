@@ -88,7 +88,7 @@ Internship discovery platform for students — dual-interface: Next.js web app a
 ### [PeerChat](https://peerchat.mathi.live)
 P2P encrypted communication app built with Flutter and Dart. Ed25519/X25519 encryption via libsodium, Bluetooth and Wi-Fi mesh routing via Nearby Connections API, offline OSM map caching. Works without internet infrastructure.
 
-### GASC Blood Donor Bridge
+### [GASC Blood Donor Bridge](https://bdb.free.nf)
 Role-based blood donor management system — Donor, Requester, and Moderator workflows. Secure session auth, CRUD operations, automated MySQLDump-PHP backups. Reduced maintenance effort by ~80%, duplicate records by ~40%.
 
 ---
